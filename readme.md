@@ -13,8 +13,4 @@ __Cluster config__
 
 hostnames  | roles     |os |vCPU   |RAM    |Storage    | internal IP   | Public IP 
 -----------|-----------|---|-------|-------|-----------| --------------|------------
-
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+ibmfra-vm-sdgo-okd-bootstrap|boostrap|coreOS|4|16|100|  | |
