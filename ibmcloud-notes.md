@@ -1,0 +1,5 @@
+- during one day error message with "your session terminated"
+- no installer support to provision the infra in ibmcloud
+- no fedoraOS as base image
+- errors with aspera in firefox (why for aspera?)
+- buckets are slow to open on ibmcloud
