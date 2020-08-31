@@ -3,3 +3,5 @@
 - no fedoraOS as base image
 - errors with aspera in firefox (why for aspera?)
 - buckets are slow to open on ibmcloud
+- have to install aspera to download image, impossible at work
+- An error occurred while creating custom image 'ibmfra-ci-coreos'. > could not create custom images for Fedora

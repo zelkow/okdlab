@@ -61,7 +61,7 @@ As IBM does not have CoreOS as a base image:
 - create storage service 
 - configure bucket 
 - authorize bucket
-- download image 
+- download image type Images must be a qcow2 file type, 100GB or less and cloud-init enabled.
 - install plugin aspera to download images
 
 
